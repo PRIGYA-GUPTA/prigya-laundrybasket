@@ -1,0 +1,201 @@
+
+
+
+#title{
+    background-color: #416a59;
+    color: #fff;
+}
+
+.container-fluid
+{
+    padding: 3% 15%;
+}
+
+h1,h2{
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
+.con{
+    padding: 0;
+    margin-bottom: 5rem;
+}
+.navbar{
+    padding-bottom: 0 0 0 4rem;
+}
+
+.navbar-brand{
+    font-family: 'ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+    margin-right: 20rem;
+    
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "ubuntu"
+}
+
+.download
+{
+    margin: 5% 3%  5% 0;
+    font-family: ubuntu;
+}
+
+.title-image{
+    width: 80%;
+   
+    
+   
+    /* position: absolute; */
+    
+   
+}
+/* .image-container
+{
+    position: relative;
+} */
+.heart
+{
+    size : 5rem;
+}
+
+.para
+{
+    font-family: ubuntu;
+    font-weight: 1000;
+    color: #8f8f8f;
+}
+
+.img{
+    color : #73a24e;
+    margin-bottom:10px;
+}
+
+.img:hover
+{
+    color: #416a59;
+}
+
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    /* position: relative;
+    z-index: 1;  */
+   
+}
+
+.box
+{
+    text-align: center;
+    padding: 4.6%;
+}
+
+/* testimonials section */
+
+#testimonials{
+    background-color: #73a24e;
+   
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+   color:#fff;
+   
+    
+}
+.carousel-item
+{
+    padding: 7% 15%;
+}
+.test-img
+{
+    width: 20%;
+    border-radius: 100%;
+    padding-top: 20px;
+    
+    
+}
+
+#press{
+    background-color: #73a24e;
+    padding: 7% 15%;
+    text-align: center;
+
+}
+
+.press-img{
+    width: 15%;
+    margin:20px 20px 50px;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.price-col
+{
+    padding: 3% 2%;
+}
+
+/* footer section */
+
+#cta{
+    background-color: #416a59;
+   padding: 150px 0px 0px;
+   font-family: 'Montserrat', sans-serif;
+    color: #fff;
+   text-align: center;
+}
+
+@media(max-width:900px){
+   .title-image{
+    position:static;
+    transform: rotate(0deg);
+   }
+}
+
+/* footer section */
+
+#footer{
+    padding-top: 100px;
+    background-color: #fff;
+    text-align : center;
+
+}
+
+.dia{
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.fa-instagram:hover
+{
+   
+    transform: scale(1.5);
+    color: #fd5949;
+}
+
+.fa-twitter:hover{
+    transform: scale(1.5);
+    color: #00B6F1;
+}
+
+.fa-facebook:hover
+{
+    transform: scale(1.5);
+    color: #3B5998;
+}
+
+.fa-envelope:hover{
+    transform: scale(1.5);
+    color: #15a5ee;
+}
+
+
